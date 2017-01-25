@@ -7,6 +7,7 @@ class inventoryAllocator(object):
     inventory - This holds the current product stock information (including the initial values)
     '''
 
+    inventory = {'A':150,'B':150,'C':100,'D':100,'E':200}
 
     def __init__(self,name): # name just gives a name to this class
         self.name = name

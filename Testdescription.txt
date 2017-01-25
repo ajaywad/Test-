@@ -1,0 +1,10 @@
+Please find the input and output files - orders.txt and ordersHist.txt for reference 
+for a run with original product quantities but with a allocation size from 0 to 50 just to test with fewer orders
+
+There were 13 orders but system halted after 12 as no more inventory left
+
+There was an invalid orderwith zero product(order#8)
+
+There was another invalid order for more than 50 units requested (order#9)
+
+There was an order which which was partially fulfilled and backordered (order#7)
